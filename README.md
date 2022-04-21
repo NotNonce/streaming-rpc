@@ -1,6 +1,7 @@
 ---
 <h3 align="center">StreamingRPC</h3>
 <p align="center">Change your discord status to streaming without streaming</p>
+
 ---
 #### How to use:
 1. Go to https://discord.com/developers/applications and create an app
