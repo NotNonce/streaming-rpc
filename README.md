@@ -8,7 +8,7 @@
 3. Edit the function `CustomRPC` in index.js, replace ApplicationID, ImageName...
 4. `node .`
 
-```
+```js
 async function CustomRPC() {
   const ApplicationID = 'ApplicationID'
   let Image = 'LargeImageName'
