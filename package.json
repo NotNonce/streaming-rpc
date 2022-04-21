@@ -1,0 +1,23 @@
+{
+  "name": "streamingrpc",
+  "version": "1.0.0",
+  "description": "Change your discord status to streaming without streaming",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "fake streaming",
+    "streaming",
+    "discord",
+    "custom rpc",
+    "rpc"
+  ],
+  "license": "unlicensed",
+  "dependencies": {
+    "discord.js-selfbot-v11": "git+https://github.com/NotNonce/discord.js-selfbot-v11.git",
+    "discordrpcgenerator": "^1.2.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
